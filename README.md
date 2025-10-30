@@ -66,7 +66,7 @@ Refer to backend/.env.example for all required environment variables.
 
 ---
 # Author
-Sinchana T
+Rakshitha J C
 - GitHub: @rakshithajc
 
 # License
